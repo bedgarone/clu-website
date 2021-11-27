@@ -33,6 +33,12 @@
   text-decoration: none;
 }
 
+.subtitle {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
 .title a:hover,
 .title a:focus,
 .title a:active {
@@ -104,6 +110,7 @@
 }
 
 .logo {
+  margin-top: 1em;
   height: 1em;
   margin-left: 0.5rem;
 }
